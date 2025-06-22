@@ -1,0 +1,7 @@
+基于NFT的原理，应用深度学习技术，以如下项目结构，生成图片，图片的方案符合当前最流行的趋势
+1.README.md
+2.contracts:智能合约代码目录
+3.frontend:前端代码目录
+4.frontend:PPT目录
+5.demo.md:包含Demo链接和截图
+6.prompts.md 记录与AI助手的关键提示词交互文件
